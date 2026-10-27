@@ -1,0 +1,38 @@
+
+[
+  {
+    "id": 1,
+    "name": "Santorini",
+    "country": "Greece",
+    "description": "White houses and beautiful blue seas.",
+    "emoji": "🇬🇷"
+  },
+  {
+    "id": 2,
+    "name": "Kyoto",
+    "country": "Japan",
+    "description": "Traditional temples and peaceful gardens.",
+    "emoji": "🇯🇵"
+  },
+  {
+    "id": 3,
+    "name": "Swiss Alps",
+    "country": "Switzerland",
+    "description": "Snowy peaks and mountain villages.",
+    "emoji": "🇨🇭"
+  },
+  {
+    "id": 4,
+    "name": "Bali",
+    "country": "Indonesia",
+    "description": "Tropical beaches and green rice terraces.",
+    "emoji": "🇮🇩"
+  },
+  {
+    "id": 5,
+    "name": "Jaipur",
+    "country": "India",
+    "description": "Pink architecture and royal palaces.",
+    "emoji": "🇮🇳"
+  }
+]

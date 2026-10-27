@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": 1,
+    "question": "Which property wrapper is used for two-way binding?",
+    "options": ["@State", "@Binding", "@Published", "@Environment"],
+    "answerIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "Which view arranges items vertically?",
+    "options": ["HStack", "ZStack", "VStack", "List"],
+    "answerIndex": 2
+  },
+  {
+    "id": 3,
+    "question": "Which view accepts user text input?",
+    "options": ["Text", "TextField", "Image", "Spacer"],
+    "answerIndex": 1
+  },
+  {
+    "id": 4,
+    "question": "Which view is used for navigation in modern SwiftUI?",
+    "options": ["NavigationStack", "NavigationText", "RouteView", "PageStack"],
+    "answerIndex": 0
+  },
+  {
+    "id": 5,
+    "question": "Which property wrapper stores view state?",
+    "options": ["@Binding", "@State", "@Environment", "@FocusState"],
+    "answerIndex": 1
+  },
+  {
+    "id": 6,
+    "question": "Which protocol helps a type encode and decode JSON?",
+    "options": ["Identifiable", "View", "Codable", "Hashable"],
+    "answerIndex": 2
+  },
+  {
+    "id": 7,
+    "question": "Which view displays a scrollable collection of rows?",
+    "options": ["Color", "List", "Circle", "Label"],
+    "answerIndex": 1
+  },
+  {
+    "id": 8,
+    "question": "Which modifier presents a modal sheet?",
+    "options": [".alert()", ".sheet()", ".padding()", ".offset()"],
+    "answerIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "Which view lets a user select a value from options?",
+    "options": ["Picker", "Image", "Divider", "ProgressView"],
+    "answerIndex": 0
+  },
+  {
+    "id": 10,
+    "question": "Which function is commonly used to shuffle an array?",
+    "options": ["sort()", "filter()", "shuffle()", "append()"],
+    "answerIndex": 2
+  }
+]

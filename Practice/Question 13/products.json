@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 1499,
+    "image": "headphones",
+    "description": "Comfortable wireless headphones with clear sound."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 2499,
+    "image": "applewatch",
+    "description": "A stylish watch for everyday use."
+  },
+  {
+    "id": 3,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 799,
+    "image": "backpack",
+    "description": "A lightweight backpack for college and travel."
+  },
+  {
+    "id": 4,
+    "name": "Running Shoes",
+    "category": "Fashion",
+    "price": 1899,
+    "image": "shoe",
+    "description": "Comfortable shoes for daily walking and running."
+  },
+  {
+    "id": 5,
+    "name": "Water Bottle",
+    "category": "Lifestyle",
+    "price": 299,
+    "image": "waterbottle",
+    "description": "A reusable bottle for daily hydration."
+  },
+  {
+    "id": 6,
+    "name": "Desk Lamp",
+    "category": "Home",
+    "price": 599,
+    "image": "lamp",
+    "description": "A compact lamp for your study desk."
+  }
+]
